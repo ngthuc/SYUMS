@@ -1,9 +1,6 @@
 package com.ngthuc.syums.entity;
 
 import javax.persistence.*;
-import com.fasterxml.jackson.annotation.*;
-
-import java.util.HashSet;
 
 @Entity
 @Table(name = "position")
@@ -15,17 +12,19 @@ public class Position {
     private Long id;
 
     @Column(name = "name", nullable = false)
-    private String userName;
+    private String name;
 
-    @Column(name = "level", nullable = false)
-    private Integer level;
+    @Column(name = "description")
+    private String description;
+
+    @Column(name = "isMaster")
+    private Boolean isMaster;
 
     public Position() {}
 
-    public Position(Long id, String userName, Integer level) {
-        this.id = id;
-        this.userName = userName;
-        this.level = level;
+    public Position(String name, Boolean isMaster) {
+        this.name = name;
+        this.isMaster = isMaster;
     }
 
     public Long getId() {
@@ -36,19 +35,27 @@ public class Position {
         this.id = id;
     }
 
-    public String getUserName() {
-        return userName;
+    public String getName() {
+        return name;
     }
 
-    public void setUserName(String userName) {
-        this.userName = userName;
+    public void setName(String name) {
+        this.name = name;
     }
 
-    public Integer getLevel() {
-        return level;
+    public String getDescription() {
+        return description;
     }
 
-    public void setLevel(Integer level) {
-        this.level = level;
+    public void setDescription(String description) {
+        this.description = description;
+    }
+
+    public Boolean getMaster() {
+        return isMaster;
+    }
+
+    public void setMaster(Boolean master) {
+        isMaster = master;
     }
 }

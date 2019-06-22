@@ -2,3 +2,12 @@
 2019-05-23 03:04:32 INFO  Application:83 - ## getSessionFactory: org.hibernate.internal.SessionFactoryImpl@11d7489
 2019-05-23 03:05:05 INFO  Application:53 - ## getDataSource: org.springframework.jdbc.datasource.DriverManagerDataSource@15c166e
 2019-05-23 03:05:09 INFO  Application:83 - ## getSessionFactory: org.hibernate.internal.SessionFactoryImpl@1934c15
+2019-06-22 11:44:34 INFO  Application:53 - ## getDataSource: org.springframework.jdbc.datasource.DriverManagerDataSource@186bbdd
+2019-06-22 11:44:40 INFO  Application:83 - ## getSessionFactory: org.hibernate.internal.SessionFactoryImpl@a84c5e
+2019-06-22 11:48:26 INFO  Application:53 - ## getDataSource: org.springframework.jdbc.datasource.DriverManagerDataSource@1df6796
+2019-06-22 11:48:31 INFO  Application:83 - ## getSessionFactory: org.hibernate.internal.SessionFactoryImpl@119361b
+2019-06-22 12:15:32 INFO  Application:53 - ## getDataSource: org.springframework.jdbc.datasource.DriverManagerDataSource@6dfc39
+2019-06-22 12:17:50 INFO  Application:53 - ## getDataSource: org.springframework.jdbc.datasource.DriverManagerDataSource@1938ca
+2019-06-22 12:19:13 INFO  Application:53 - ## getDataSource: org.springframework.jdbc.datasource.DriverManagerDataSource@47b58e
+2019-06-22 12:21:06 INFO  Application:53 - ## getDataSource: org.springframework.jdbc.datasource.DriverManagerDataSource@12e6882
+2019-06-22 12:21:11 INFO  Application:83 - ## getSessionFactory: org.hibernate.internal.SessionFactoryImpl@1be6100

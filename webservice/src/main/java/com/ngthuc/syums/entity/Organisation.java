@@ -26,7 +26,7 @@ public class Organisation {
     private String description;
 
     @ManyToOne
-    @JoinColumn(name="parent_id")
+    @JoinColumn(name="parentId")
     private Organisation parent;
 
     @OneToMany(fetch = FetchType.LAZY,mappedBy="parent")

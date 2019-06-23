@@ -1,13 +1,12 @@
 package com.ngthuc.syums.object;
 
-public enum SocialNetwork {
+public enum SocialKey {
     MICROSOFT,
-    FACEBOOK,
     GOOGLE,
+    FACEBOOK,
     GITHUB,
-    ZALO,
     TWITTER,
-    PHONE,
+    ZALO,
     EMAIL,
-    ANONYMOUS
+    PHONE
 }

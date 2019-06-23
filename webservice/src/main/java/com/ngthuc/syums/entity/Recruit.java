@@ -3,8 +3,8 @@ package com.ngthuc.syums.entity;
 import javax.persistence.*;
 
 @Entity
-@Table(name = "orgpeopos")
-public class OrgPeoPos {
+@Table(name = "recruit")
+public class Recruit {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -12,18 +12,18 @@ public class OrgPeoPos {
     private Long id;
 
     @ManyToOne
-    @JoinColumn(name = "org_id", nullable = false)
+    @JoinColumn(name = "orgId", nullable = false)
     private Organisation organisation;
 
     @ManyToOne
-    @JoinColumn(name = "people_id", nullable = false)
+    @JoinColumn(name = "peopleId", nullable = false)
     private People people;
 
     @ManyToOne
-    @JoinColumn(name = "position_id", nullable = false)
+    @JoinColumn(name = "positionId", nullable = false)
     private Position position;
 
-    public OrgPeoPos(Organisation organisation, People people, Position position) {
+    public Recruit(Organisation organisation, People people, Position position) {
         this.organisation = organisation;
         this.people = people;
         this.position = position;

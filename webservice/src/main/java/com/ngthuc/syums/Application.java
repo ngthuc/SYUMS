@@ -45,10 +45,10 @@ public class Application extends SpringBootServletInitializer {
         DriverManagerDataSource dataSource = new DriverManagerDataSource();
 
         // See: application.properties
-        dataSource.setDriverClassName(env.getProperty("spring.datasource.driver-class-name"));
+        dataSource.setDriverClassName(env.getProperty("syums.spring.datasource.driver-class-name"));
         dataSource.setUrl(env.getProperty("syums.spring.datasource.url"));
-        dataSource.setUsername(env.getProperty("spring.datasource.username"));
-        dataSource.setPassword(env.getProperty("spring.datasource.password"));
+        dataSource.setUsername(env.getProperty("syums.spring.datasource.username"));
+        dataSource.setPassword(env.getProperty("syums.spring.datasource.password"));
 
         logger.info("## getDataSource: " + dataSource);
 

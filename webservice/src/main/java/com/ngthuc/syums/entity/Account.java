@@ -1,17 +1,18 @@
 package com.ngthuc.syums.entity;
 
-import com.ngthuc.syums.object.SocialNetwork;
-
 import javax.persistence.*;
-import java.util.Map;
 
 @Entity
 @Table(name = "account")
 public class Account {
 
     @Id
-    @Column(name = "username", nullable = false)
-    private String username;
+    @Column(name = "userId")
+    private String userId;
+
+    @OneToOne(cascade = CascadeType.ALL)
+    @MapsId
+    private People user;
 
     @Column(name = "password", length = 60, nullable = false)
     private String password;
@@ -19,17 +20,22 @@ public class Account {
     @Column(name = "email")
     private String email;
 
-//    @Column(name = "social")
-//    private Map<SocialNetwork,String> social;
-
     public Account(){}
 
-    public String getUsername() {
-        return username;
+    public String getUserId() {
+        return userId;
     }
 
-    public void setUsername(String username) {
-        this.username = username;
+    public void setUserId(String userId) {
+        this.userId = userId;
+    }
+
+    public People getUser() {
+        return user;
+    }
+
+    public void setUser(People user) {
+        this.user = user;
     }
 
     public String getPassword() {
@@ -47,12 +53,4 @@ public class Account {
     public void setEmail(String email) {
         this.email = email;
     }
-
-//    public Map<SocialNetwork, String> getSocial() {
-//        return social;
-//    }
-//
-//    public void setSocial(Map<SocialNetwork, String> social) {
-//        this.social = social;
-//    }
 }

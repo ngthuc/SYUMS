@@ -1,6 +1,8 @@
 package com.ngthuc.syums.entity;
 
 import javax.persistence.*;
+import java.util.HashSet;
+import java.util.Set;
 
 @Entity
 @Table(name = "position")
@@ -16,6 +18,14 @@ public class Position {
 
     @Column(name = "description")
     private String description;
+
+    @ManyToMany(fetch = FetchType.LAZY, cascade = { CascadeType.ALL })
+    @JoinTable(
+            name = "position_scope",
+            joinColumns = { @JoinColumn(name = "positionId") },
+            inverseJoinColumns = { @JoinColumn(name = "scope") }
+    )
+    Set<Scope> listScope = new HashSet<>();
 
     @Column(name = "isMaster")
     private Boolean isMaster;
@@ -51,7 +61,15 @@ public class Position {
         this.description = description;
     }
 
-    public Boolean getMaster() {
+    public Set<Scope> getListScope() {
+        return listScope;
+    }
+
+    public void setListScope(Set<Scope> listScope) {
+        this.listScope = listScope;
+    }
+
+    public Boolean isMaster() {
         return isMaster;
     }
 

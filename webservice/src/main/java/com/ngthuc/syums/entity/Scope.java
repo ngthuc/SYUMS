@@ -18,7 +18,7 @@ public class Scope {
     @Column(name = "scope")
     private ScopeKey scope;
 
-    @ManyToMany(mappedBy = "listScope")
+    @ManyToMany(mappedBy = "listScope",cascade = CascadeType.ALL)
     private Set<Position> listPosition = new HashSet<>();
 
     public Scope(ScopeKey scope) {

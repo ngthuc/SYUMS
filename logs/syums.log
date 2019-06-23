@@ -61,3 +61,5 @@
 2019-06-23 21:30:30 INFO  Application:53 - ## getDataSource: org.springframework.jdbc.datasource.DriverManagerDataSource@e5b6d1
 2019-06-23 21:47:01 INFO  Application:53 - ## getDataSource: org.springframework.jdbc.datasource.DriverManagerDataSource@1912a86
 2019-06-23 21:47:07 INFO  Application:83 - ## getSessionFactory: org.hibernate.internal.SessionFactoryImpl@3e5e4d
+2019-06-23 21:58:21 INFO  Application:53 - ## getDataSource: org.springframework.jdbc.datasource.DriverManagerDataSource@1cfa590
+2019-06-23 21:58:28 INFO  Application:83 - ## getSessionFactory: org.hibernate.internal.SessionFactoryImpl@d565f2

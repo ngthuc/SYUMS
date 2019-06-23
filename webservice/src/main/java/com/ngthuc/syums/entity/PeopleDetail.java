@@ -16,11 +16,11 @@ public class PeopleDetail {
     @Column(name = "socialKey")
     private SocialKey socialKey;
 
-    @Column(name = "people_value")
+    @Column(name = "socialValue")
     private String socialValue;
 
     @ManyToOne
-    @JoinColumn(name = "people_id")
+    @JoinColumn(name = "peopleId")
     private People people;
 
     public PeopleDetail() {}

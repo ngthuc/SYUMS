@@ -2,24 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d3b0217-319e-4b21-b7b3-2083f57e8b1c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/ActivityRegister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/PeopleDetail.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Scope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Timekeeping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/object/Authority.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/object/ScopeKey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/object/SocialKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ngthuc/syums/entity/Activity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ngthuc/syums/entity/ActivityRegister.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ngthuc/syums/entity/Card.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ngthuc/syums/entity/PeopleDetail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ngthuc/syums/entity/Scope.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ngthuc/syums/entity/Timekeeping.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ngthuc/syums/object/Authority.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ngthuc/syums/object/ScopeKey.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ngthuc/syums/object/SocialKey.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hibernate.properties.example" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../logs/syums.log" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/syums.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/OrgPeoPos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/OrgPeoPos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Recruit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Organisation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Organisation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/People.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/People.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Position.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/object/SocialNetwork.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/object/SocialNetwork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/object/SocialKey.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ngthuc/syums/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ngthuc/syums/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ngthuc/syums/Application.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/ngthuc/syums/entity/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ngthuc/syums/entity/Account.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ngthuc/syums/entity/OrgPeoPos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ngthuc/syums/entity/OrgPeoPos.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ngthuc/syums/entity/Recruit.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/ngthuc/syums/entity/Organisation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ngthuc/syums/entity/Organisation.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/ngthuc/syums/entity/People.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ngthuc/syums/entity/People.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/ngthuc/syums/entity/Position.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ngthuc/syums/entity/Position.class" afterDir="false" />
@@ -104,7 +119,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Position.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
+            <state relative-caret-position="595">
               <caret line="63" column="34" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -113,15 +128,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Scope.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-75">
-              <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+            <state relative-caret-position="146">
+              <caret line="20" column="64" selection-start-line="20" selection-start-column="64" selection-end-line="20" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#359#360#0" expanded="true" />
                 <element signature="e#393#394#0" expanded="true" />
+                <element signature="e#567#568#0" expanded="true" />
                 <element signature="e#592#593#0" expanded="true" />
                 <element signature="e#626#627#0" expanded="true" />
                 <element signature="e#654#655#0" expanded="true" />
@@ -138,7 +154,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/PeopleDetail.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1032#1033#0" expanded="true" />
+                <element signature="e#1066#1067#0" expanded="true" />
+                <element signature="e#1120#1121#0" expanded="true" />
+                <element signature="e#1166#1167#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/object/Authority.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
@@ -216,10 +248,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Timekeeping.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/object/Social.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/object/Scope.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/PeopleDetail.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Scope.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/object/Authority.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Position.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Scope.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/PeopleDetail.java" />
       </list>
     </option>
   </component>
@@ -419,9 +451,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2655068" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2655068" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -430,7 +461,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32850242" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.40257648" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.40257648" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39452496" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -697,18 +728,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Timekeeping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12">
-          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1170#1171#0" expanded="true" />
-            <element signature="e#1199#1200#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/object/SocialKey.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -720,35 +739,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Recruit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/PeopleDetail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="45" column="38" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#868#869#0" expanded="true" />
-            <element signature="e#900#901#0" expanded="true" />
-            <element signature="e#953#954#0" expanded="true" />
-            <element signature="e#995#996#0" expanded="true" />
-            <element signature="e#1032#1033#0" expanded="true" />
-            <element signature="e#1066#1067#0" expanded="true" />
-            <element signature="e#1120#1121#0" expanded="true" />
-            <element signature="e#1166#1167#0" expanded="true" />
-            <element signature="e#1200#1201#0" expanded="true" />
-            <element signature="e#1229#1230#0" expanded="true" />
-            <element signature="e#1273#1274#0" expanded="true" />
-            <element signature="e#1309#1310#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -769,14 +759,68 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/object/Authority.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/PeopleDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1032#1033#0" expanded="true" />
+            <element signature="e#1066#1067#0" expanded="true" />
+            <element signature="e#1120#1121#0" expanded="true" />
+            <element signature="e#1166#1167#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Position.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="63" column="34" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Recruit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Timekeeping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1170#1171#0" expanded="true" />
+            <element signature="e#1199#1200#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Scope.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-75">
-          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+        <state relative-caret-position="146">
+          <caret line="20" column="64" selection-start-line="20" selection-start-column="64" selection-end-line="20" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#359#360#0" expanded="true" />
             <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
             <element signature="e#592#593#0" expanded="true" />
             <element signature="e#626#627#0" expanded="true" />
             <element signature="e#654#655#0" expanded="true" />
@@ -788,26 +832,6 @@
             <element signature="e#875#876#0" expanded="true" />
             <element signature="e#938#939#0" expanded="true" />
             <element signature="e#986#987#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Position.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="63" column="34" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/object/Authority.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

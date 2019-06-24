@@ -7,7 +7,7 @@ import javax.persistence.*;
 public class People {
 
     @Id
-    @Column(name = "id", unique = true, nullable = false)
+    @Column(name = "id", unique = true, length = 20, nullable = false)
     private String id;
 
     @OneToOne(mappedBy = "user", cascade = CascadeType.ALL)

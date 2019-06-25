@@ -1,0 +1,155 @@
+<head>
+                <meta http-equiv="Content-type" content="text/html;charset=utf-8" />
+                <style>
+                    .bold {
+                        font-weight:bold;
+                    }
+                </style></head><style>col {mso-width-source:auto;} table {font-family:Arial;font-size:12px}</style><table id='tb_main_title' style='border-collapse: collapse;' name='tb_main_title' width='700' class='table-print-title' >
+<thead>
+<tr><th colspan='2'  align='left' ><div class="logo_left_doanvien" style="width:300px">
+            <div style="text-align:center">
+                 <font style="font-weight:normal;white-space:normal;font-family:Times New Roman,Georgia,Serif;font-size:14px;">ĐOÀN TNCS HỒ CHÍ MINH TP.CẦN THƠ</font>
+            </div>
+            <div style="font-weight:normal;white-space:normal;text-align:center;font-family:Times New Roman,Georgia,Serif;font-size:13px;">BCH ĐOÀN TRƯỜNG ĐẠI HỌC CẦN THƠ</div>
+            <div style="font-weight:normal;white-space:normal;width:50px;margin:2px auto;font-size:20px;text-align:center;">***</div>
+        </div></th><th colspan='5'  align='center' ><span class="logo_right_doanvien" ></th></tr>
+<tr><th colspan='7'  align='center' valign='bottom' nowrap='1'  class='bold main_title' style='height:35px'>TỰ ĐIỂN CHỨC VỤ ĐOÀN</th></tr>
+</thead></table><table id='tb_main_body' style='border-collapse: collapse;' name='tb_main_body' width='700' class='table-print' border='1' >
+<thead>
+<tr><th align="center" >Stt</th><th align="center" >Mã chức vụ</th><th align="center" >Tên chức vụ</th><th align="center" >Loại chức vụ</th><th align="center" >Tiêu chí</th><th align="center" >Tiêu chí hoàn thành</th><th align="center" >Cho phép nhiều thành viên</th></tr>
+</thead><tr class="body">
+<td  align='center' width='5%' class = 'bold' >1</td>
+<td  align='left' >BCHLCD</td>
+<td  align='left' >Ban chấp hành Liên chi đoàn</td>
+<td  align='left' >BCH chi đoàn</td>
+<td  align='left' style='mso-number-format:\@;' >V.b.1</td>
+<td  align='left' style='mso-number-format:\@;' >V.b.1</td>
+<td  align='center' >X</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >2</td>
+<td  align='left' >CD-BT</td>
+<td  align='left' >Bí thư</td>
+<td  align='left' >BCH chi đoàn</td>
+<td  align='left' style='mso-number-format:\@;' >V.a.1</td>
+<td  align='left' style='mso-number-format:\@;' >V.a.1</td>
+<td  align='center' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >3</td>
+<td  align='left' >CD-PBT</td>
+<td  align='left' >Phó Bí thư</td>
+<td  align='left' >BCH chi đoàn</td>
+<td  align='left' style='mso-number-format:\@;' >V.b.1</td>
+<td  align='left' style='mso-number-format:\@;' >V.b.1</td>
+<td  align='center' >X</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >4</td>
+<td  align='left' >CD-UV</td>
+<td  align='left' >Ủy viên Ban chấp hành</td>
+<td  align='left' >BCH chi đoàn</td>
+<td  align='left' style='mso-number-format:\@;' >V.b.1</td>
+<td  align='left' style='mso-number-format:\@;' >V.b.1</td>
+<td  align='center' >X</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >5</td>
+<td  align='left' >DK-BT</td>
+<td  align='left' >Bí thư</td>
+<td  align='left' >BCH đoàn cơ sở</td>
+<td  align='left' style='mso-number-format:\@;' >V.a.1</td>
+<td  align='left' style='mso-number-format:\@;' >V.a.1</td>
+<td  align='center' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >6</td>
+<td  align='left' >DK-PBT</td>
+<td  align='left' >Phó Bí thư</td>
+<td  align='left' >BCH đoàn cơ sở</td>
+<td  align='left' style='mso-number-format:\@;' >V.a.1</td>
+<td  align='left' style='mso-number-format:\@;' >V.a.1</td>
+<td  align='center' >X</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >7</td>
+<td  align='left' >DK-UVCH</td>
+<td  align='left' >Ủy viên Ban chấp hành</td>
+<td  align='left' >BCH đoàn cơ sở</td>
+<td  align='left' style='mso-number-format:\@;' >V.a.1</td>
+<td  align='left' style='mso-number-format:\@;' >V.a.1</td>
+<td  align='center' >X</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >8</td>
+<td  align='left' >DK-UVTV</td>
+<td  align='left' >Ủy viên thường vụ</td>
+<td  align='left' >BCH đoàn cơ sở</td>
+<td  align='left' style='mso-number-format:\@;' >V.a.1</td>
+<td  align='left' style='mso-number-format:\@;' >V.a.1</td>
+<td  align='center' >X</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >9</td>
+<td  align='left' >DT-BT</td>
+<td  align='left' >Bí thư</td>
+<td  align='left' >BCH đoàn trường</td>
+<td  align='left' >&nbsp;</td>
+<td  align='left' >&nbsp;</td>
+<td  align='center' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >10</td>
+<td  align='left' >DT-CNUBKT</td>
+<td  align='left' >Chủ nhiệm Ủy ban kiểm tra</td>
+<td  align='left' >BCH đoàn trường</td>
+<td  align='left' >&nbsp;</td>
+<td  align='left' >&nbsp;</td>
+<td  align='center' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >11</td>
+<td  align='left' >DT-PBT</td>
+<td  align='left' >Phó Bí thư</td>
+<td  align='left' >BCH đoàn trường</td>
+<td  align='left' >&nbsp;</td>
+<td  align='left' >&nbsp;</td>
+<td  align='center' >X</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >12</td>
+<td  align='left' >DT-PCNUBKT</td>
+<td  align='left' >Phó Chủ nhiệm Ủy ban kiểm tra</td>
+<td  align='left' >BCH đoàn trường</td>
+<td  align='left' >&nbsp;</td>
+<td  align='left' >&nbsp;</td>
+<td  align='center' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >13</td>
+<td  align='left' >DT-UVBCH</td>
+<td  align='left' >Ủy viên Ban chấp hành</td>
+<td  align='left' >BCH đoàn trường</td>
+<td  align='left' style='mso-number-format:\@;' >V.a.1</td>
+<td  align='left' style='mso-number-format:\@;' >V.a.1</td>
+<td  align='center' >X</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >14</td>
+<td  align='left' >DT-UVKT</td>
+<td  align='left' >Ủy viên Ban kiểm tra</td>
+<td  align='left' >BCH đoàn trường</td>
+<td  align='left' style='mso-number-format:\@;' >V.a.1</td>
+<td  align='left' style='mso-number-format:\@;' >V.a.1</td>
+<td  align='center' >X</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >15</td>
+<td  align='left' >DT-UVTV</td>
+<td  align='left' >Ủy viên thường vụ</td>
+<td  align='left' >BCH đoàn trường</td>
+<td  align='left' style='mso-number-format:\@;' >V.a.1</td>
+<td  align='left' style='mso-number-format:\@;' >V.a.1</td>
+<td  align='center' >X</td>
+</tr>
+</table>

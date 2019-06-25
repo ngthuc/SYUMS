@@ -1,0 +1,104 @@
+<head>
+                <meta http-equiv="Content-type" content="text/html;charset=utf-8" />
+                <style>
+                    .bold {
+                        font-weight:bold;
+                    }
+                </style></head><style>col {mso-width-source:auto;} table {font-family:Arial;font-size:12px}</style><table id='tb_main_title' style='border-collapse: collapse;' name='tb_main_title' width='700' class='table-print-title' >
+<thead>
+<tr><th colspan='2'  align='left' ><div class="logo_left_doanvien" style="width:300px">
+            <div style="text-align:center">
+                 <font style="font-weight:normal;white-space:normal;font-family:Times New Roman,Georgia,Serif;font-size:14px;">HỘI SINH VIÊN VIỆT NAM TP. CẦN THƠ</font>
+            </div>
+            <div style="font-weight:normal;white-space:normal;text-align:center;font-family:Times New Roman,Georgia,Serif;font-size:13px;">BCH TRƯỜNG ĐẠI HỌC CẦN THƠ</div>
+            <div style="font-weight:normal;white-space:normal;width:50px;margin:2px auto;font-size:20px;text-align:center;">***</div>
+        </div></th><th colspan='4'  align='center' ><span class="logo_right_doanvien" ></th></tr>
+<tr><th colspan='4'  align='center' valign='bottom' nowrap='1'  class='bold main_title' style='height:35px'>TỰ ĐIỂN LIÊN CHI HỘI</th></tr>
+</thead></table><table id='tb_main_body' style='border-collapse: collapse;' name='tb_main_body' width='700' class='table-print' border='1' >
+<thead>
+<tr><th align="center" >Stt</th><th align="center" >Liên chi hội</th><th align="center" >Tên liên chi hội</th><th align="center" >Tên thành phố</th></tr>
+</thead><tr class="body">
+<td  align='center' width='5%' class = 'bold' >1</td>
+<td  align='left' style='mso-number-format:\@;' >0000</td>
+<td  align='left' >Hội sinh viên Trường Đại học Cần Thơ</td>
+<td  align='left' >Cần Thơ                 </td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >2</td>
+<td  align='left' style='mso-number-format:\@;' >0100</td>
+<td  align='left' >Liên chi hội sinh viên Long An</td>
+<td  align='left' >Long An                 </td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >3</td>
+<td  align='left' style='mso-number-format:\@;' >0200</td>
+<td  align='left' >Liên chi hội sinh viên Tiền Giang</td>
+<td  align='left' >Tiền Giang              </td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >4</td>
+<td  align='left' style='mso-number-format:\@;' >0300</td>
+<td  align='left' >Liên chi hội sinh viên Đồng Tháp</td>
+<td  align='left' >Đồng Tháp               </td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >5</td>
+<td  align='left' style='mso-number-format:\@;' >0400</td>
+<td  align='left' >Liên chi hội sinh viên Bến Tre</td>
+<td  align='left' >Bến Tre                 </td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >6</td>
+<td  align='left' style='mso-number-format:\@;' >0500</td>
+<td  align='left' >Liên chi hội sinh viên Vĩnh Long</td>
+<td  align='left' >Vĩnh Long               </td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >7</td>
+<td  align='left' style='mso-number-format:\@;' >0600</td>
+<td  align='left' >Liên chi hội sinh viên An Giang</td>
+<td  align='left' >An Giang                </td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >8</td>
+<td  align='left' style='mso-number-format:\@;' >0700</td>
+<td  align='left' >Liên chi hội sinh viên Trà Vinh</td>
+<td  align='left' >Trà Vinh                </td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >9</td>
+<td  align='left' style='mso-number-format:\@;' >0800</td>
+<td  align='left' >Liên chi hội sinh viên Cần Thơ</td>
+<td  align='left' >Cần Thơ                 </td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >10</td>
+<td  align='left' style='mso-number-format:\@;' >0900</td>
+<td  align='left' >Liên chi hội sinh viên Hậu Giang</td>
+<td  align='left' >Hậu Giang               </td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >11</td>
+<td  align='left' style='mso-number-format:\@;' >1000</td>
+<td  align='left' >Liên chi hội sinh viên Sóc Trăng</td>
+<td  align='left' >Sóc Trăng               </td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >12</td>
+<td  align='left' style='mso-number-format:\@;' >1100</td>
+<td  align='left' >Liên chi hội sinh viên Bạc Liêu</td>
+<td  align='left' >Bạc Liêu                </td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >13</td>
+<td  align='left' style='mso-number-format:\@;' >1200</td>
+<td  align='left' >Liên chi hội sinh viên Kiên Giang</td>
+<td  align='left' >Kiên Giang              </td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >14</td>
+<td  align='left' style='mso-number-format:\@;' >1300</td>
+<td  align='left' >Liên chi hội sinh viên Cà Mau</td>
+<td  align='left' >Cà Mau                  </td>
+</tr>
+</table>

@@ -1,0 +1,55 @@
+<head>
+                <meta http-equiv="Content-type" content="text/html;charset=utf-8" />
+                <style>
+                    .bold {
+                        font-weight:bold;
+                    }
+                </style></head><style>col {mso-width-source:auto;} table {font-family:Arial;font-size:12px}</style><table id='tb_main_title' style='border-collapse: collapse;' name='tb_main_title' width='700' class='table-print-title' >
+<thead>
+<tr><th colspan='2'  align='left' ><div class="logo_left_doanvien" style="width:300px">
+            <div style="text-align:center">
+                 <font style="font-weight:normal;white-space:normal;font-family:Times New Roman,Georgia,Serif;font-size:14px;">ĐOÀN TNCS HỒ CHÍ MINH TP.CẦN THƠ</font>
+            </div>
+            <div style="font-weight:normal;white-space:normal;text-align:center;font-family:Times New Roman,Georgia,Serif;font-size:13px;">BCH ĐOÀN TRƯỜNG ĐẠI HỌC CẦN THƠ</div>
+            <div style="font-weight:normal;white-space:normal;width:50px;margin:2px auto;font-size:20px;text-align:center;">***</div>
+        </div></th><th colspan='3'  align='center' ><span class="logo_right_doanvien" ></th></tr>
+<tr><th colspan='5'  align='center' valign='bottom' nowrap='1'  class='bold main_title' style='height:35px'>TỰ ĐIỂN TIÊU CHÍ ĐÁNH GIÁ</th></tr>
+</thead></table><table id='tb_main_body' style='border-collapse: collapse;' name='tb_main_body' width='700' class='table-print' border='1' >
+<thead>
+<tr><th align="center" >Stt</th><th align="center" >Tên phân loại</th><th align="center" >Điểm TBHK tối thiểu</th><th align="center" >Điểm RL tối thiểu</th><th align="center" >Ghi chú</th></tr>
+</thead><tr class="body">
+<td  align='center' width='5%' class = 'bold' >1</td>
+<td  align='left' >Ưu tú</td>
+<td  align='right' >3.6</td>
+<td  align='right' >90</td>
+<td  align='left' >Phải đạt xuất sắc</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >2</td>
+<td  align='left' >Xuất sắc</td>
+<td  align='right' >3.2</td>
+<td  align='right' >80</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >3</td>
+<td  align='left' >Khá</td>
+<td  align='right' >2</td>
+<td  align='right' >60</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >4</td>
+<td  align='left' >Trung bình</td>
+<td  align='right' >1</td>
+<td  align='right' >50</td>
+<td  align='left' >&nbsp;</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >5</td>
+<td  align='left' >Yếu</td>
+<td  align='right' >0</td>
+<td  align='right' >0</td>
+<td  align='left' >Không đạt các tiêu chí trên</td>
+</tr>
+</table>

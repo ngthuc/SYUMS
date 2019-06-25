@@ -1,0 +1,98 @@
+<head>
+                <meta http-equiv="Content-type" content="text/html;charset=utf-8" />
+                <style>
+                    .bold {
+                        font-weight:bold;
+                    }
+                </style></head><style>col {mso-width-source:auto;} table {font-family:Arial;font-size:12px}</style><table id='tb_main_title' style='border-collapse: collapse;' name='tb_main_title' width='700' class='table-print-title' >
+<thead>
+<tr><th colspan='2'  align='left' ><div class="logo_left_doanvien" style="width:300px">
+            <div style="text-align:center">
+                 <font style="font-weight:normal;white-space:normal;font-family:Times New Roman,Georgia,Serif;font-size:14px;">ĐOÀN TNCS HỒ CHÍ MINH TP.CẦN THƠ</font>
+            </div>
+            <div style="font-weight:normal;white-space:normal;text-align:center;font-family:Times New Roman,Georgia,Serif;font-size:13px;">BCH ĐOÀN TRƯỜNG ĐẠI HỌC CẦN THƠ</div>
+            <div style="font-weight:normal;white-space:normal;width:50px;margin:2px auto;font-size:20px;text-align:center;">***</div>
+        </div></th><th colspan='2'  align='center' ><span class="logo_right_doanvien" ></th></tr>
+<tr><th colspan='4'  align='center' valign='bottom' nowrap='1'  class='bold main_title' style='height:35px'>TỰ ĐIỂN HÌNH THỨC KỶ LUẬT</th></tr>
+</thead></table><table id='tb_main_body' style='border-collapse: collapse;' name='tb_main_body' width='700' class='table-print' border='1' >
+<thead>
+<tr><th align="center" >Stt</th><th align="center" >Mã hình thức kỷ luật</th><th align="center" >Tên hình thức kỷ luật</th><th align="center" >Tổ chức Đoàn/Hội</th></tr>
+</thead><tr class="body">
+<td  align='center' width='5%' class = 'bold' >1</td>
+<td  align='left' >D-KL01</td>
+<td  align='left' >Cảnh cáo cấp Trường</td>
+<td  align='left' colspan='2' >Trường</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >2</td>
+<td  align='left' >D-KL02</td>
+<td  align='left' >Khiển trách cấp trường</td>
+<td  align='left' colspan='2' >Trường</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >3</td>
+<td  align='left' >D-KL03</td>
+<td  align='left' >Khai trừ</td>
+<td  align='left' colspan='2' >Trường</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >4</td>
+<td  align='left' >D-KL04</td>
+<td  align='left' >Cảnh cáo cấp Khoa</td>
+<td  align='left' colspan='2' >Khoa</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >5</td>
+<td  align='left' >D-KL05</td>
+<td  align='left' >Khiển trách cấp Khoa</td>
+<td  align='left' colspan='2' >Khoa</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >6</td>
+<td  align='left' >D-KL06</td>
+<td  align='left' >Khiển trách cấp Chi đoàn</td>
+<td  align='left' colspan='2' >Khoa</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >7</td>
+<td  align='left' >H-KL01</td>
+<td  align='left' >Cách chức</td>
+<td  align='left' colspan='2' >Liên chi hội</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >8</td>
+<td  align='left' >H-KL02</td>
+<td  align='left' >Cảnh cáo cấp Trường</td>
+<td  align='left' colspan='2' >Liên chi hội</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >9</td>
+<td  align='left' >H-KL03</td>
+<td  align='left' >Khai trừ</td>
+<td  align='left' colspan='2' >Liên chi hội</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >10</td>
+<td  align='left' >H-KL04</td>
+<td  align='left' >Khiển trách cấp Trường</td>
+<td  align='left' colspan='2' >Liên chi hội</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >11</td>
+<td  align='left' >H-KL05</td>
+<td  align='left' >Khiển trách cấp Chi hội</td>
+<td  align='left' colspan='2' >Liên chi hội</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >12</td>
+<td  align='left' >H-KL06</td>
+<td  align='left' >Cảnh cáo cấp Liên Chi hội, CLB, Đội nhóm</td>
+<td  align='left' colspan='2' >Liên chi hội</td>
+</tr>
+<tr class="body">
+<td  align='center' width='5%' class = 'bold' >13</td>
+<td  align='left' >H-KL07</td>
+<td  align='left' >Khiển trách cấp Liên Chi hội, CLB, Đội nhóm</td>
+<td  align='left' colspan='2' >Liên chi hội</td>
+</tr>
+</table>

@@ -2,7 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d3b0217-319e-4b21-b7b3-2083f57e8b1c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../CDM.PNG" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/OrgType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Prorogue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/SpoDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/SpoType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/old/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/old/Activity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/ActivityRegister.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/old/ActivityRegister.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/old/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Organisation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Organization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/People.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/old/People.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/PeopleDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/old/PeopleDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/old/Position.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Recruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/old/Recruit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Scope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/old/Scope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Timekeeping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/old/Timekeeping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/object/Authority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/object/Authority.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -48,180 +64,82 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Timekeeping.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Organization.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+            <state relative-caret-position="342">
+              <caret line="35" column="14" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1689#1690#0" expanded="true" />
+                <element signature="e#1728#1729#0" expanded="true" />
+                <element signature="e#1756#1757#0" expanded="true" />
+                <element signature="e#1782#1783#0" expanded="true" />
+                <element signature="e#1823#1824#0" expanded="true" />
+                <element signature="e#1853#1854#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/People.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/SpoDetail.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Position.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="535">
-              <caret line="63" column="34" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="34" />
+            <state relative-caret-position="391">
+              <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#489#490#0" expanded="true" />
+                <element signature="e#523#524#0" expanded="true" />
+                <element signature="e#551#552#0" expanded="true" />
+                <element signature="e#596#597#0" expanded="true" />
+                <element signature="e#631#632#0" expanded="true" />
+                <element signature="e#693#694#0" expanded="true" />
+                <element signature="e#741#742#0" expanded="true" />
+                <element signature="e#776#777#0" expanded="true" />
+                <element signature="e#806#807#0" expanded="true" />
+                <element signature="e#853#854#0" expanded="true" />
+                <element signature="e#891#892#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="uml://DATABASE/a166ea01-616a-4824-a41f-24994697fec7.SCHEMA:syums">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>DATABASE</ID>
-              <OriginalElement>a166ea01-616a-4824-a41f-24994697fec7.SCHEMA:syums</OriginalElement>
-              <nodes>
-                <node x="29.310374149659765" y="294.5">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.position_scope</node>
-                <node x="301.0" y="0.0">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.organisation</node>
-                <node x="571.3937074829931" y="0.0">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.people</node>
-                <node x="110.0" y="11.0">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.position</node>
-                <node x="946.3937074829932" y="482.0">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.time_keeping</node>
-                <node x="577.8937074829931" y="294.0">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.card</node>
-                <node x="405.8937074829932" y="228.0">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.activity</node>
-                <node x="729.8937074829931" y="272.0">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.people_detail</node>
-                <node x="436.95493197278915" y="504.0">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.actvity_regiter</node>
-                <node x="0.0" y="33.0">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.scope</node>
-                <node x="899.8937074829931" y="283.0">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.account</node>
-                <node x="221.22916666666674" y="272.0">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.recruit</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.activity" target="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.organisation">
-                  <point x="-37.75" y="-102.0" />
-                  <point x="443.6437074829932" y="178.0" />
-                  <point x="426.83333333333337" y="178.0" />
-                  <point x="50.33333333333337" y="69.0" />
-                </edge>
-                <edge source="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.actvity_regiter" target="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.activity">
-                  <point x="-33.0" y="-47.0" />
-                  <point x="469.95493197278915" y="462.0" />
-                  <point x="443.6437074829932" y="462.0" />
-                  <point x="-37.75" y="102.0" />
-                </edge>
-                <edge source="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.card" target="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.people">
-                  <point x="0.0" y="-36.0" />
-                  <point x="0.0" y="69.0" />
-                </edge>
-                <edge source="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.activity" target="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.people">
-                  <point x="37.75" y="-102.0" />
-                  <point x="519.1437074829932" y="198.0" />
-                  <point x="602.4651360544217" y="198.0" />
-                  <point x="-41.428571428571445" y="69.0" />
-                </edge>
-                <edge source="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.time_keeping" target="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.activity">
-                  <point x="-33.00000000000006" y="-69.0" />
-                  <point x="979.3937074829932" y="452.0" />
-                  <point x="519.1437074829932" y="452.0" />
-                  <point x="37.75" y="102.0" />
-                </edge>
-                <edge source="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.position_scope" target="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.scope">
-                  <point x="-32.5" y="-35.5" />
-                  <point x="61.810374149659765" y="208.0" />
-                  <point x="45.0" y="208.0" />
-                  <point x="0.0" y="36.0" />
-                </edge>
-                <edge source="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.actvity_regiter" target="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.people">
-                  <point x="33.0" y="-47.0" />
-                  <point x="535.9549319727892" y="462.0" />
-                  <point x="567.3937074829931" y="462.0" />
-                  <point x="567.3937074829931" y="208.0" />
-                  <point x="623.1794217687074" y="208.0" />
-                  <point x="-20.71428571428578" y="69.0" />
-                </edge>
-                <edge source="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.time_keeping" target="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.people">
-                  <point x="32.99999999999994" y="-69.0" />
-                  <point x="1045.3937074829932" y="188.0" />
-                  <point x="706.0365646258502" y="188.0" />
-                  <point x="62.14285714285711" y="69.0" />
-                </edge>
-                <edge source="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.recruit" target="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.organisation">
-                  <point x="0.0" y="-58.0" />
-                  <point x="287.22916666666674" y="178.0" />
-                  <point x="376.5" y="178.0" />
-                  <point x="0.0" y="69.0" />
-                </edge>
-                <edge source="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.recruit" target="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.people">
-                  <point x="44.0" y="-58.0" />
-                  <point x="331.22916666666674" y="188.0" />
-                  <point x="581.750850340136" y="188.0" />
-                  <point x="-62.14285714285711" y="69.0" />
-                </edge>
-                <edge source="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.account" target="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.people">
-                  <point x="0.0" y="-47.0" />
-                  <point x="967.3937074829931" y="198.0" />
-                  <point x="685.3222789115646" y="198.0" />
-                  <point x="41.428571428571445" y="69.0" />
-                </edge>
-                <edge source="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.people_detail" target="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.people">
-                  <point x="0.0" y="-58.0" />
-                  <point x="804.8937074829931" y="208.0" />
-                  <point x="664.6079931972788" y="208.0" />
-                  <point x="20.714285714285666" y="69.0" />
-                </edge>
-                <edge source="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.position_scope" target="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.position">
-                  <point x="32.5" y="-35.5" />
-                  <point x="126.81037414965976" y="208.0" />
-                  <point x="147.75" y="208.0" />
-                  <point x="-37.75" y="58.0" />
-                </edge>
-                <edge source="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.organisation" target="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.organisation">
-                  <point x="-50.33333333333334" y="69.0" />
-                  <point x="326.16666666666663" y="158.0" />
-                  <point x="281.0" y="158.0" />
-                  <point x="281.0" y="69.0" />
-                  <point x="-75.5" y="-0.0" />
-                </edge>
-                <edge source="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.recruit" target="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.position">
-                  <point x="-44.0" y="-58.0" />
-                  <point x="243.22916666666674" y="208.0" />
-                  <point x="223.25" y="208.0" />
-                  <point x="37.75" y="58.0" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="0.5984375" x="326.44516971279376" y="391.0443864229765" />
-              <SelectedNodes>
-                <node>a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.recruit</node>
-              </SelectedNodes>
-              <Categories>
-                <Category>Key columns</Category>
-                <Category>Columns</Category>
-              </Categories>
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Prorogue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#559#560#0" expanded="true" />
+                <element signature="e#617#618#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Scope.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/OrgType.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            <state relative-caret-position="493">
+              <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/SpoType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#657#658#0" expanded="true" />
+                <element signature="e#683#684#0" expanded="true" />
+                <element signature="e#721#722#0" expanded="true" />
+                <element signature="e#751#752#0" expanded="true" />
+                <element signature="e#782#783#0" expanded="true" />
+                <element signature="e#809#810#0" expanded="true" />
+                <element signature="e#849#850#0" expanded="true" />
+                <element signature="e#881#882#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -274,6 +192,15 @@
         <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/People.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/old/Account.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/old/Prorogue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/old/Organisation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/old/Organization.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/SpoType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/SpoDetail.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Organization.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Prorogue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/OrgType.java" />
       </list>
     </option>
   </component>
@@ -367,6 +294,15 @@
               <item name="webservice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="syums" type="462c0819:PsiDirectoryNode" />
+              <item name="object" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -406,6 +342,9 @@
     <property name="settings.editor.selected.configurable" value="ics" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.ngthuc.syums.entity.old" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\JavaDev\syums\webservice\src\test" />
     </key>
@@ -422,7 +361,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Maven.Run">
+    <configuration name="SpoType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ngthuc.syums.entity.SpoType" />
+      <module name="syums" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ngthuc.syums.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -524,6 +476,11 @@
       </MavenSettings>
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpoType" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -537,17 +494,18 @@
       <updated>1558553141168</updated>
       <workItem from="1561342699659" duration="1787000" />
       <workItem from="1562926233568" duration="1356000" />
+      <workItem from="1563155994452" duration="8577000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3143000" />
+    <option name="totallyTimeSpent" value="11720000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2782516" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28144988" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -555,10 +513,11 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32850242" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" weight="0.3564464" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39452496" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.3564464" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3943662" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -636,26 +595,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/object/OrganisationDto.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-          <folding>
-            <element signature="e#381#382#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-            <element signature="e#453#454#0" expanded="true" />
-            <element signature="e#488#489#0" expanded="true" />
-            <element signature="e#519#520#0" expanded="true" />
-            <element signature="e#567#568#0" expanded="true" />
-            <element signature="e#607#608#0" expanded="true" />
-            <element signature="e#641#642#0" expanded="true" />
-            <element signature="e#673#674#0" expanded="true" />
-            <element signature="e#721#722#0" expanded="true" />
-            <element signature="e#763#764#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/SubOrg.java" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/hibernate.properties">
       <provider selected="true" editor-type-id="text-editor">
@@ -683,9 +622,130 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Account.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/object/SocialKey.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
+        <state relative-caret-position="170">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/old/PeopleDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/syums.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/object/Authority.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/old/Recruit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a166ea01-616a-4824-a41f-24994697fec7/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/old/Timekeeping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/old/Position.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="63" column="34" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/old/Scope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/a166ea01-616a-4824-a41f-24994697fec7.SCHEMA:syums">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>a166ea01-616a-4824-a41f-24994697fec7.SCHEMA:syums</OriginalElement>
+          <nodes>
+            <node x="" y="">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.recruit</node>
+            <node x="" y="">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.organisation</node>
+            <node x="" y="">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.people</node>
+            <node x="" y="">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.position</node>
+            <node x="" y="">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.time_keeping</node>
+            <node x="" y="">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.card</node>
+            <node x="" y="">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.activity</node>
+            <node x="" y="">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.people_detail</node>
+            <node x="" y="">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.actvity_regiter</node>
+            <node x="" y="">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.scope</node>
+            <node x="" y="">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.account</node>
+            <node x="" y="">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.position_scope</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.43517679057116954" x="1371.0479166666667" y="760.3916666666667" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/old/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
           <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
           <folding>
             <element signature="e#494#495#0" expanded="true" />
@@ -707,62 +767,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Activity.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/old/Activity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-357">
+        <state relative-caret-position="218">
           <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#870#871#0" expanded="true" />
-            <element signature="e#904#905#0" expanded="true" />
-            <element signature="e#932#933#0" expanded="true" />
-            <element signature="e#963#964#0" expanded="true" />
-            <element signature="e#990#991#0" expanded="true" />
-            <element signature="e#1030#1031#0" expanded="true" />
-            <element signature="e#1062#1063#0" expanded="true" />
-            <element signature="e#1096#1097#0" expanded="true" />
-            <element signature="e#1128#1129#0" expanded="true" />
-            <element signature="e#1176#1177#0" expanded="true" />
-            <element signature="e#1218#1219#0" expanded="true" />
-            <element signature="e#1250#1251#0" expanded="true" />
-            <element signature="e#1280#1281#0" expanded="true" />
-            <element signature="e#1324#1325#0" expanded="true" />
-            <element signature="e#1362#1363#0" expanded="true" />
-            <element signature="e#1397#1398#0" expanded="true" />
-            <element signature="e#1428#1429#0" expanded="true" />
-            <element signature="e#1476#1477#0" expanded="true" />
-            <element signature="e#1516#1517#0" expanded="true" />
-            <element signature="e#1554#1555#0" expanded="true" />
-            <element signature="e#1588#1589#0" expanded="true" />
-            <element signature="e#1642#1643#0" expanded="true" />
-            <element signature="e#1688#1689#0" expanded="true" />
-            <element signature="e#1721#1722#0" expanded="true" />
-            <element signature="e#1750#1751#0" expanded="true" />
-            <element signature="e#1794#1795#0" expanded="true" />
-            <element signature="e#1830#1831#0" expanded="true" />
-            <element signature="e#1875#1876#0" expanded="true" />
-            <element signature="e#1910#1911#0" expanded="true" />
-            <element signature="e#1972#1973#0" expanded="true" />
-            <element signature="e#2020#2021#0" expanded="true" />
+            <element signature="e#874#875#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/ActivityRegister.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/old/People.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-41">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/old/Card.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/old/ActivityRegister.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
           <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-          <folding>
-            <element signature="e#571#572#0" expanded="true" />
-            <element signature="e#596#597#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/object/SocialKey.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/object/OrganisationDto.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        <state relative-caret-position="221">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding>
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+            <element signature="e#673#674#0" expanded="true" />
+            <element signature="e#721#722#0" expanded="true" />
+            <element signature="e#763#764#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -773,235 +826,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/PeopleDetail.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Organization.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        <state relative-caret-position="342">
+          <caret line="35" column="14" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1689#1690#0" expanded="true" />
+            <element signature="e#1728#1729#0" expanded="true" />
+            <element signature="e#1756#1757#0" expanded="true" />
+            <element signature="e#1782#1783#0" expanded="true" />
+            <element signature="e#1823#1824#0" expanded="true" />
+            <element signature="e#1853#1854#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Card.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/SpoType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/syums.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/object/Authority.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+        <state relative-caret-position="119">
+          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#657#658#0" expanded="true" />
+            <element signature="e#683#684#0" expanded="true" />
+            <element signature="e#721#722#0" expanded="true" />
+            <element signature="e#751#752#0" expanded="true" />
+            <element signature="e#782#783#0" expanded="true" />
+            <element signature="e#809#810#0" expanded="true" />
+            <element signature="e#849#850#0" expanded="true" />
+            <element signature="e#881#882#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Organisation.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/SpoDetail.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        <state relative-caret-position="391">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
+            <element signature="e#693#694#0" expanded="true" />
+            <element signature="e#741#742#0" expanded="true" />
+            <element signature="e#776#777#0" expanded="true" />
+            <element signature="e#806#807#0" expanded="true" />
+            <element signature="e#853#854#0" expanded="true" />
+            <element signature="e#891#892#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Prorogue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/OrgType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
-          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Recruit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Timekeeping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/People.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://DATABASE/a166ea01-616a-4824-a41f-24994697fec7.SCHEMA:syums">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>DATABASE</ID>
-          <OriginalElement>a166ea01-616a-4824-a41f-24994697fec7.SCHEMA:syums</OriginalElement>
-          <nodes>
-            <node x="29.310374149659765" y="294.5">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.position_scope</node>
-            <node x="301.0" y="0.0">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.organisation</node>
-            <node x="571.3937074829931" y="0.0">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.people</node>
-            <node x="110.0" y="11.0">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.position</node>
-            <node x="946.3937074829932" y="482.0">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.time_keeping</node>
-            <node x="577.8937074829931" y="294.0">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.card</node>
-            <node x="405.8937074829932" y="228.0">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.activity</node>
-            <node x="729.8937074829931" y="272.0">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.people_detail</node>
-            <node x="436.95493197278915" y="504.0">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.actvity_regiter</node>
-            <node x="0.0" y="33.0">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.scope</node>
-            <node x="899.8937074829931" y="283.0">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.account</node>
-            <node x="221.22916666666674" y="272.0">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.recruit</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.activity" target="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.organisation">
-              <point x="-37.75" y="-102.0" />
-              <point x="443.6437074829932" y="178.0" />
-              <point x="426.83333333333337" y="178.0" />
-              <point x="50.33333333333337" y="69.0" />
-            </edge>
-            <edge source="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.actvity_regiter" target="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.activity">
-              <point x="-33.0" y="-47.0" />
-              <point x="469.95493197278915" y="462.0" />
-              <point x="443.6437074829932" y="462.0" />
-              <point x="-37.75" y="102.0" />
-            </edge>
-            <edge source="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.card" target="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.people">
-              <point x="0.0" y="-36.0" />
-              <point x="0.0" y="69.0" />
-            </edge>
-            <edge source="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.activity" target="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.people">
-              <point x="37.75" y="-102.0" />
-              <point x="519.1437074829932" y="198.0" />
-              <point x="602.4651360544217" y="198.0" />
-              <point x="-41.428571428571445" y="69.0" />
-            </edge>
-            <edge source="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.time_keeping" target="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.activity">
-              <point x="-33.00000000000006" y="-69.0" />
-              <point x="979.3937074829932" y="452.0" />
-              <point x="519.1437074829932" y="452.0" />
-              <point x="37.75" y="102.0" />
-            </edge>
-            <edge source="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.position_scope" target="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.scope">
-              <point x="-32.5" y="-35.5" />
-              <point x="61.810374149659765" y="208.0" />
-              <point x="45.0" y="208.0" />
-              <point x="0.0" y="36.0" />
-            </edge>
-            <edge source="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.actvity_regiter" target="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.people">
-              <point x="33.0" y="-47.0" />
-              <point x="535.9549319727892" y="462.0" />
-              <point x="567.3937074829931" y="462.0" />
-              <point x="567.3937074829931" y="208.0" />
-              <point x="623.1794217687074" y="208.0" />
-              <point x="-20.71428571428578" y="69.0" />
-            </edge>
-            <edge source="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.time_keeping" target="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.people">
-              <point x="32.99999999999994" y="-69.0" />
-              <point x="1045.3937074829932" y="188.0" />
-              <point x="706.0365646258502" y="188.0" />
-              <point x="62.14285714285711" y="69.0" />
-            </edge>
-            <edge source="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.recruit" target="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.organisation">
-              <point x="0.0" y="-58.0" />
-              <point x="287.22916666666674" y="178.0" />
-              <point x="376.5" y="178.0" />
-              <point x="0.0" y="69.0" />
-            </edge>
-            <edge source="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.recruit" target="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.people">
-              <point x="44.0" y="-58.0" />
-              <point x="331.22916666666674" y="188.0" />
-              <point x="581.750850340136" y="188.0" />
-              <point x="-62.14285714285711" y="69.0" />
-            </edge>
-            <edge source="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.account" target="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.people">
-              <point x="0.0" y="-47.0" />
-              <point x="967.3937074829931" y="198.0" />
-              <point x="685.3222789115646" y="198.0" />
-              <point x="41.428571428571445" y="69.0" />
-            </edge>
-            <edge source="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.people_detail" target="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.people">
-              <point x="0.0" y="-58.0" />
-              <point x="804.8937074829931" y="208.0" />
-              <point x="664.6079931972788" y="208.0" />
-              <point x="20.714285714285666" y="69.0" />
-            </edge>
-            <edge source="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.position_scope" target="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.position">
-              <point x="32.5" y="-35.5" />
-              <point x="126.81037414965976" y="208.0" />
-              <point x="147.75" y="208.0" />
-              <point x="-37.75" y="58.0" />
-            </edge>
-            <edge source="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.organisation" target="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.organisation">
-              <point x="-50.33333333333334" y="69.0" />
-              <point x="326.16666666666663" y="158.0" />
-              <point x="281.0" y="158.0" />
-              <point x="281.0" y="69.0" />
-              <point x="-75.5" y="-0.0" />
-            </edge>
-            <edge source="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.recruit" target="a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.position">
-              <point x="-44.0" y="-58.0" />
-              <point x="243.22916666666674" y="208.0" />
-              <point x="223.25" y="208.0" />
-              <point x="37.75" y="58.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="0.5984375" x="326.44516971279376" y="391.0443864229765" />
-          <SelectedNodes>
-            <node>a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.recruit</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Key columns</Category>
-            <Category>Columns</Category>
-          </Categories>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a166ea01-616a-4824-a41f-24994697fec7/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Position.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="63" column="34" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Scope.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
         </state>
       </provider>
     </entry>

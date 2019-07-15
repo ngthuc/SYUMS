@@ -1,8 +1,8 @@
 package com.ngthuc.syums.object;
 
-import com.ngthuc.syums.entity.Account;
-import com.ngthuc.syums.entity.Position;
-import com.ngthuc.syums.entity.Scope;
+import com.ngthuc.syums.entity.old.Account;
+import com.ngthuc.syums.entity.old.Position;
+import com.ngthuc.syums.entity.old.Scope;
 
 import java.util.Set;
 

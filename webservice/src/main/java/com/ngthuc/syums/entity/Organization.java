@@ -1,4 +1,4 @@
-package com.ngthuc.syums.entity;
+package com.ngthuc.syums.entity.old;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 

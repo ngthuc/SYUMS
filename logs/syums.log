@@ -85,3 +85,5 @@
 2019-07-16 11:01:41 INFO  Application:83 - ## getSessionFactory: org.hibernate.internal.SessionFactoryImpl@5fbb523c
 2019-07-16 11:07:58 INFO  Application:53 - ## getDataSource: org.springframework.jdbc.datasource.DriverManagerDataSource@2a1ed10f
 2019-07-16 11:08:09 INFO  Application:83 - ## getSessionFactory: org.hibernate.internal.SessionFactoryImpl@5130de7a
+2019-07-16 17:14:40 INFO  Application:53 - ## getDataSource: org.springframework.jdbc.datasource.DriverManagerDataSource@29581c86
+2019-07-16 17:14:51 INFO  Application:83 - ## getSessionFactory: org.hibernate.internal.SessionFactoryImpl@2a90eacf

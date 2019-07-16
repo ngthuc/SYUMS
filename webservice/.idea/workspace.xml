@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d3b0217-319e-4b21-b7b3-2083f57e8b1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Management.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/object/dto/OrgTypeDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/syums.log" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/syums.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/OrgType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/OrgType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Organization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Organization.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Prorogue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Prorogue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/SpoDetail.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/SpoType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/old/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/object/old/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/old/Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/object/old/Activity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/old/ActivityRegister.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/object/old/ActivityRegister.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/old/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/object/old/Card.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/old/People.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/old/PeopleDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/object/old/PeopleDetail.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/old/Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/Role.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/old/Recruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/object/old/Recruit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/old/Scope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/object/old/Scope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/entity/old/Timekeeping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/object/old/Timekeeping.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/object/Authority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/object/Authority.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/object/OrganisationDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/object/OrganizationDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/object/ScopeKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/object/enumtype/ScopeKey.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/object/SocialKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ngthuc/syums/object/enumtype/SocialKey.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -69,7 +46,27 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="uml://DATABASE/a166ea01-616a-4824-a41f-24994697fec7.SCHEMA:syums">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>DATABASE</ID>
+              <OriginalElement>a166ea01-616a-4824-a41f-24994697fec7.SCHEMA:syums</OriginalElement>
+              <nodes />
+              <notes />
+              <edges />
+              <settings layout="Hierarchic Group" zoom="0.9029649595687331" x="481.55373134328363" y="361.0" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Key columns</Category>
+                <Category>Columns</Category>
+              </Categories>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -489,17 +486,18 @@
       <updated>1558553141168</updated>
       <workItem from="1561342699659" duration="1787000" />
       <workItem from="1562926233568" duration="1356000" />
-      <workItem from="1563155994452" duration="15606000" />
+      <workItem from="1563155994452" duration="16478000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18749000" />
+    <option name="totallyTimeSpent" value="19621000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28144988" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28144988" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -530,7 +528,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" visible="true" weight="0.17910448" />
+      <window_info anchor="right" id="Database" order="8" weight="0.17910448" />
       <window_info anchor="right" id="Bean Validation" order="9" />
     </layout>
   </component>
@@ -930,18 +928,10 @@
         <state>
           <ID>DATABASE</ID>
           <OriginalElement>a166ea01-616a-4824-a41f-24994697fec7.SCHEMA:syums</OriginalElement>
-          <nodes>
-            <node x="" y="">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.org_type</node>
-            <node x="" y="">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.organization</node>
-            <node x="" y="">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.position</node>
-            <node x="" y="">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.person</node>
-            <node x="" y="">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.person_organization</node>
-            <node x="" y="">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.prorogue</node>
-            <node x="" y="">a166ea01-616a-4824-a41f-24994697fec7.TABLE:syums.management</node>
-          </nodes>
+          <nodes />
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="0.9029649595687331" x="295.5" y="361.0" />
+          <settings layout="Hierarchic Group" zoom="0.9029649595687331" x="481.55373134328363" y="361.0" />
           <SelectedNodes />
           <Categories>
             <Category>Key columns</Category>

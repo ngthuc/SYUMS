@@ -1,4 +1,6 @@
-package com.ngthuc.syums.entity;
+package com.ngthuc.syums.object.old;
+
+import com.ngthuc.syums.entity.Person;
 
 import javax.persistence.*;
 
@@ -12,11 +14,11 @@ public class Card {
 
     @ManyToOne
     @JoinColumn(name = "peopleId", nullable = false)
-    private People people;
+    private Person person;
 
-    public Card(String id, People people) {
+    public Card(String id, Person person) {
         this.id = id;
-        this.people = people;
+        this.person = person;
     }
 
     public String getId() {
@@ -27,11 +29,11 @@ public class Card {
         this.id = id;
     }
 
-    public People getPeople() {
-        return people;
+    public Person getPerson() {
+        return person;
     }
 
-    public void setPeople(People people) {
-        this.people = people;
+    public void setPerson(Person person) {
+        this.person = person;
     }
 }

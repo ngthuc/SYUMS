@@ -1,15 +1,12 @@
 package com.ngthuc.syums.entity;
 
-import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-
 import javax.persistence.*;
 import java.util.HashSet;
 import java.util.Set;
 
 @Entity
-@JsonIgnoreProperties(value = { "subordinates" })
-@Table(name = "organization")
-public class Organization {
+@Table(name = "position")
+public class Role {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -19,27 +16,33 @@ public class Organization {
     @Column(name = "name", nullable = false)
     private String name;
 
-    @Column(name = "codename")
-    private String codename;
-
     @Column(name = "description")
     private String description;
 
-    @ManyToOne
-    @JoinColumn(name="childOf")
-    private Organization parent;
+//    @ManyToMany(fetch = FetchType.LAZY, cascade = { CascadeType.ALL })
+//    @JoinTable(
+//            name = "position_scope",
+//            joinColumns = { @JoinColumn(name = "positionId") },
+//            inverseJoinColumns = { @JoinColumn(name = "scope") }
+//    )
+//    Set<Scope> listScope = new HashSet<>();
+
+    @Column(name = "master")
+    private Boolean master;
 
     @ManyToOne
     @JoinColumn(name = "type")
     private OrgType orgType;
 
-    @ManyToMany(mappedBy = "organizations", cascade = CascadeType.ALL)
-    private Set<Person> people;
-
-    @OneToMany(mappedBy = "organization", cascade = CascadeType.ALL)
+    @OneToMany(mappedBy = "role", cascade = CascadeType.ALL)
     private Set<Management> managements;
 
-    public Organization() {}
+    public Role() {}
+
+    public Role(String name, Boolean isMaster) {
+        this.name = name;
+        this.master = isMaster;
+    }
 
     public Long getId() {
         return id;
@@ -57,14 +60,6 @@ public class Organization {
         this.name = name;
     }
 
-    public String getCodename() {
-        return codename;
-    }
-
-    public void setCodename(String codename) {
-        this.codename = codename;
-    }
-
     public String getDescription() {
         return description;
     }
@@ -73,16 +68,20 @@ public class Organization {
         this.description = description;
     }
 
-    public Organization getParent() {
-        return parent;
+//    public Set<Scope> getListScope() {
+//        return listScope;
+//    }
+//
+//    public void setListScope(Set<Scope> listScope) {
+//        this.listScope = listScope;
+//    }
+
+    public Boolean isMaster() {
+        return master;
     }
 
-    public void setParent(Organization parent) {
-        this.parent = parent;
-    }
-
-    public boolean isSpo() {
-        return orgType.getOrganization() != null;
+    public void setMaster(Boolean master) {
+        master = master;
     }
 
     public OrgType getOrgType() {
@@ -91,14 +90,6 @@ public class Organization {
 
     public void setOrgType(OrgType orgType) {
         this.orgType = orgType;
-    }
-
-    public Set<Person> getPeople() {
-        return people;
-    }
-
-    public void setPeople(Set<Person> people) {
-        this.people = people;
     }
 
     public Set<Management> getManagements() {

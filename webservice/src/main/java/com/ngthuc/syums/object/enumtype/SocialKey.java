@@ -1,4 +1,4 @@
-package com.ngthuc.syums.object;
+package com.ngthuc.syums.object.enumtype;
 
 public enum SocialKey {
     MICROSOFT,

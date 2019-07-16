@@ -1,4 +1,7 @@
-package com.ngthuc.syums.entity;
+package com.ngthuc.syums.object.old;
+
+import com.ngthuc.syums.entity.Person;
+import com.ngthuc.syums.entity.Organization;
 
 import javax.persistence.*;
 import java.util.Date;
@@ -29,11 +32,11 @@ public class Activity {
 
     @ManyToOne
     @JoinColumn(name = "createdBy", nullable = false)
-    private People people;
+    private Person person;
 
     @ManyToOne
     @JoinColumn(name = "ownedBy", nullable = false)
-    private Organisation organisation;
+    private Organization organization;
 
     public Activity() {}
 
@@ -85,19 +88,19 @@ public class Activity {
         this.description = description;
     }
 
-    public People getPeople() {
-        return people;
+    public Person getPerson() {
+        return person;
     }
 
-    public void setPeople(People people) {
-        this.people = people;
+    public void setPerson(Person person) {
+        this.person = person;
     }
 
-    public Organisation getOrganisation() {
-        return organisation;
+    public Organization getOrganization() {
+        return organization;
     }
 
-    public void setOrganisation(Organisation organisation) {
-        this.organisation = organisation;
+    public void setOrganization(Organization organization) {
+        this.organization = organization;
     }
 }

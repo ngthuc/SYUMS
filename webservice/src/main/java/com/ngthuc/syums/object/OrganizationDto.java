@@ -1,11 +1,11 @@
 package com.ngthuc.syums.object;
 
-public class OrganisationDto {
+public class OrganizationDto {
     private String name;
     private String nickname;
     private Long parent_id;
 
-    public OrganisationDto(String name, String nickname, Long parent_id) {
+    public OrganizationDto(String name, String nickname, Long parent_id) {
         this.name = name;
         this.nickname = nickname;
         this.parent_id = parent_id;

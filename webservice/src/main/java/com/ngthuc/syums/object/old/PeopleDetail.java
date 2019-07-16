@@ -1,6 +1,7 @@
-package com.ngthuc.syums.entity;
+package com.ngthuc.syums.object.old;
 
-import com.ngthuc.syums.object.SocialKey;
+import com.ngthuc.syums.entity.Person;
+import com.ngthuc.syums.object.enumtype.SocialKey;
 
 import javax.persistence.*;
 
@@ -21,12 +22,12 @@ public class PeopleDetail {
 
     @ManyToOne
     @JoinColumn(name = "peopleId")
-    private People people;
+    private Person person;
 
     public PeopleDetail() {}
 
-    public PeopleDetail(People people, SocialKey key, String value) {
-        this.people = people;
+    public PeopleDetail(Person person, SocialKey key, String value) {
+        this.person = person;
         this.socialKey = key;
         this.socialValue = value;
     }
@@ -55,11 +56,11 @@ public class PeopleDetail {
         this.socialValue = socialValue;
     }
 
-    public People getPeople() {
-        return people;
+    public Person getPerson() {
+        return person;
     }
 
-    public void setPeople(People people) {
-        this.people = people;
+    public void setPerson(Person person) {
+        this.person = person;
     }
 }

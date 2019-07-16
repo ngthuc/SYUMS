@@ -1,5 +1,7 @@
 package com.ngthuc.syums.entity;
 
+import com.ngthuc.syums.object.dto.OrgTypeDto;
+
 import javax.persistence.*;
 
 @Entity
@@ -11,22 +13,56 @@ public class OrgType {
     @Column(name = "id")
     private Long id;
 
-    @Column(name = "typeKey")
-    private String key;
+    @Column(name = "code")
+    private String code;
 
-    @Column(name = "typeName")
+    @Column(name = "name")
     private String name;
 
-    @OneToOne
-    @JoinColumn(name = "spo")
-    private SpoDetail spoDetail;
+    @ManyToOne
+    @JoinColumn(name = "spoOf")
+    private Organization organization;
 
-    public OrgType(String key, String name) {
-        this.key = key;
+    public OrgType(OrgTypeDto dto) {
+        if (dto.getOrganization() != null) {
+            this.code = dto.toCode();
+            this.name = dto.getName();
+            this.organization = dto.getOrganization();
+        } else {
+            this.code = dto.getCode();
+            this.name = dto.getName();
+        }
+    }
+
+    public Long getId() {
+        return id;
+    }
+
+    public void setId(Long id) {
+        this.id = id;
+    }
+
+    public String getCode() {
+        return code;
+    }
+
+    public void setCode(String code) {
+        this.code = code;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
         this.name = name;
     }
 
-    public OrgType(SpoType spoType) {
-        
+    public Organization getOrganization() {
+        return organization;
+    }
+
+    public void setOrganization(Organization organization) {
+        this.organization = organization;
     }
 }

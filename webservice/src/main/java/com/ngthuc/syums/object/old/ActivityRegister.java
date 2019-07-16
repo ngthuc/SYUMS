@@ -1,4 +1,6 @@
-package com.ngthuc.syums.entity;
+package com.ngthuc.syums.object.old;
+
+import com.ngthuc.syums.entity.Person;
 
 import javax.persistence.*;
 
@@ -13,15 +15,15 @@ public class ActivityRegister {
 
     @ManyToOne
     @JoinColumn(name = "peopleId")
-    private People people;
+    private Person person;
 
     @ManyToOne
     @JoinColumn(name = "activityId")
     private Activity activity;
 
-    public ActivityRegister(Activity activity, People people) {
+    public ActivityRegister(Activity activity, Person person) {
         this.activity = activity;
-        this.people = people;
+        this.person = person;
     }
 
     public Long getId() {
@@ -32,12 +34,12 @@ public class ActivityRegister {
         this.id = id;
     }
 
-    public People getPeople() {
-        return people;
+    public Person getPerson() {
+        return person;
     }
 
-    public void setPeople(People people) {
-        this.people = people;
+    public void setPerson(Person person) {
+        this.person = person;
     }
 
     public Activity getActivity() {
